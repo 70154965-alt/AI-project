@@ -1,6 +1,6 @@
 # TruthStream Web App
 
-A standalone web application for the AI-Powered Journalism & Fact-Checking Network.
+A standalone web application for the AI-Powered Journalism & Fact-Checking Network. this is my project 
 
 ## Run
 
